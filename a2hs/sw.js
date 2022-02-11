@@ -3,8 +3,7 @@ self.addEventListener('install', (e) => {
         caches.open('fox-store').then((cache) => cache.addAll([
             '/pwa-example/a2hs/',
             '/pwa-example/a2hs/index.html',
-            '/pwa-example/a2hs/index.js',
-            '/pwa-example/a2hs/style.css'
+            '/pwa-example/a2hs/index.js'
         ])),
     );
 });
