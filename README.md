@@ -8,4 +8,4 @@
 
 - 点击按钮提示安装用 index.js
 
-**官方文档：**https://developer.mozilla.org/zh-CN/docs/Web/Progressive_web_apps/Add_to_home_screen
+**官方文档：** https://developer.mozilla.org/zh-CN/docs/Web/Progressive_web_apps/Add_to_home_screen
